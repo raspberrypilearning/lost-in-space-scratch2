@@ -1,19 +1,29 @@
+--- no-print ---
+
+This is the **Scratch 2** version of the project. There is also a [Scratch 3 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space).
+
+--- /no-print ---
+
 ## Introduction
 
-Add project description here. What will learners be making?
+You are going to learn how to program your own animation!
 
 ### What you will make
 
 --- no-print ---
-Add instructions for using the embedded content here.
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/249469043/?autostart=false" frameborder="0"></iframe>
+  <img src="images/space-final.png">
 </div>
+
 --- /no-print ---
 
 --- print-only ---
+
 ![Complete project](images/showcase_static.png)
+
 --- /print-only ---
 
 --- collapse ---
@@ -22,17 +32,15 @@ title: What you will need
 ---
 ### Hardware
 
-+ Describe hardware here
++ A computer capable of running Scratch 2.0
 
 ### Software
 
 + Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
 
 ### Downloads
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
++ None
 
 --- /collapse ---
 
@@ -41,18 +49,17 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Two or three learning objectives
-+ ...should go here
++ Animate a sprite using a loop
++ Change the appearance of a sprite
 
 --- /collapse ---
-
 --- collapse ---
 ---
 title: Additional information for educators
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2/print){:target="_blank"}.
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+[Here is a link to the solution for this project](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 --- /collapse ---

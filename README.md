@@ -1,11 +1,10 @@
-# lost-in-space-scratch2
+# Lost in Space
 
-![lost-in-space-scratch2](banner.png)
+![Lost in Space](/en/images/banner.png)
+
+Learn how to program your own space animation
 
 Find the project online at [projects.raspberrypi.org/en/projects/lost-in-space-scratch2](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2)
-
-## Resources
-For solutions and project materials, see [en/resources](https://github.com/raspberrypilearning/lost-in-space-scratch2/tree/master/en/resources)
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)
