@@ -36,7 +36,7 @@ title: What you will need
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
++ Scratch 2.0 [offline](http://rpf.io/scratchoff))
 
 ### Downloads
 
@@ -60,6 +60,6 @@ title: Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2/print){:target="_blank"}.
 
-[Here is a link to the solution for this project](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+[Here is a link to the solution for this project](http://rpf.io/p/en/lost-in-space-scratch2-get){:target="_blank"}.
 
 --- /collapse ---
