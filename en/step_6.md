@@ -21,36 +21,18 @@ When the green __flag is clicked__, your rock sprite should __move__ and __bounc
 --- hint ---
 Here are the code blocks you need:
 
-```blocks
-move (10) steps
-
-if on edge bounce
-
-when flag clicked
-
-forever
-```
+![blocks_1545214772_5809293](images/blocks_1545214772_5809293.png)
 
 You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
-```blocks
-turn cw (15) degrees
-
-point towards [Earth v]
-```
+![blocks_1545214773_7458131](images/blocks_1545214773_7458131.png)
 --- /hint ---
 --- hint ---
 
 Here's the code for making your rock bounce around the stage:
 
 ![Rock sprite](images/sprite-rock.png)
-```blocks
-when flag clicked
-point towards [Earth v]
-forever
-    move (2) steps
-    if on edge, bounce
-```
+![blocks_1545214774_8349013](images/blocks_1545214774_8349013.png)
 --- /hint ---
 --- /hints ---
 --- /task ---
