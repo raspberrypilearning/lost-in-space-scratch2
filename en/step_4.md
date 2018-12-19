@@ -7,14 +7,7 @@ Delete the `glide`{:class="blockmotion"} block from your code. To do this, right
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
-```blocks
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) secs
-point towards [Earth v]
-glide (1) secs to x:(0) y:(0)
-```
+![blocks_1545214765_9276235](images/blocks_1545214765_9276235.png)
 
 Another way to delete code is to drag it off the Script area and back into the code blocks area.
 
@@ -34,26 +27,13 @@ Instead of __gliding__, your spaceship should __repeatedly__ __move__ a few step
 --- hint ---
 Here are the code blocks you need:
 
-```blocks
-move (10) steps
-
-repeat (10)
-```
+![blocks_1545214767_0800097](images/blocks_1545214767_0800097.png)
 
 --- /hint ---
 --- hint ---
 Here is the code to animate your spaceship:
 ![Spaceship sprite](images/sprite-spaceship.png)
-```blocks
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) secs
-point towards [Earth v]
-glide (1) secs to x:(0) y:(0)
-repeat (200)
-    move (2) steps
-```
+![blocks_1545214768_167833](images/blocks_1545214768_167833.png)
 You can use different numbers in the `repeat`{:class="blockcontrol"} and `move`{:class="blockmotion"} blocks, as long as the spaceship still gets to Earth!
 --- /hint ---
 --- /hints ---
@@ -68,9 +48,7 @@ Can you add code to your spaceship sprite so that the spaceship changes colour a
 Use this block:
 
 ![Spaceship sprite](images/sprite-spaceship.png)
-```blocks
-change [color v] effect by (25)
-```
+![blocks_1545214769_2808998](images/blocks_1545214769_2808998.png)
 
 Test and save your code.
 
@@ -86,10 +64,7 @@ Your spaceship should start at __100% size__, and then __change size__ by a smal
 Use these blocks:
 
 ![Spaceship sprite](images/sprite-spaceship.png)
-```blocks
-change size by (10)
-set size to (100) %
-```
+![blocks_1545214770_3912392](images/blocks_1545214770_3912392.png)
 --- /task ---
 
 Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a __second time__. Is it the right size when it starts?

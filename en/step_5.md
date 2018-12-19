@@ -39,11 +39,7 @@ Here's the code to make your monkey spin:
 
 ![Monkey sprite](images/sprite-monkey.png)
 
-```blocks
-when flag clicked
-forever
-    turn cw (1) degrees
-```
+![blocks_1545214771_488307](images/blocks_1545214771_488307.png)
 --- /hint ---
 --- /hints ---
 
