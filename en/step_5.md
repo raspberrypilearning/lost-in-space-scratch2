@@ -39,7 +39,7 @@ Here's the code to make your monkey spin:
 
 ![Monkey sprite](images/sprite-monkey.png)
 
-![blocks_1545214771_488307](images/blocks_1545214771_488307.png)
+![blocks_1545231890_4808528](images/blocks_1545231890_4808528.png)
 --- /hint ---
 --- /hints ---
 

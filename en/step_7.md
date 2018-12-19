@@ -21,12 +21,12 @@ When the green __flag is clicked__, your star sprite should __change size__ to g
 --- hint ---
 Here are the code blocks you need:
 
-![blocks_1545214775_9448714](images/blocks_1545214775_9448714.png)
+![blocks_1545231894_9603708](images/blocks_1545231894_9603708.png)
 --- /hint ---
 --- hint ---
 Here's the code to make your star grow and shrink:
 ![Star sprite](images/sprite-star.png)
-![blocks_1545214777_0332248](images/blocks_1545214777_0332248.png)
+![blocks_1545231896_0654862](images/blocks_1545231896_0654862.png)
 --- /hint ---
 --- /hints ---
 --- /task ---

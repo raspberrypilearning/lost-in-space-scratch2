@@ -45,7 +45,7 @@ Add this code to your spaceship sprite:
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
-![blocks_1545214762_7050853](images/blocks_1545214762_7050853.png)
+![blocks_1545231881_6717746](images/blocks_1545231881_6717746.png)
 
 Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
