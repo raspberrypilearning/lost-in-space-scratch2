@@ -7,7 +7,14 @@ Delete the `glide`{:class="blockmotion"} block from your code. To do this, right
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
-![blocks_1545231884_9521737](images/blocks_1545231884_9521737.png)
+```blocks
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) secs
+point towards [Earth v]
+- glide (1) secs to x:(0) y:(0)
+```
 
 Another way to delete code is to drag it off the Script area and back into the code blocks area.
 
@@ -27,13 +34,25 @@ Instead of __gliding__, your spaceship should __repeatedly__ __move__ a few step
 --- hint ---
 Here are the code blocks you need:
 
-![blocks_1545231886_0839052](images/blocks_1545231886_0839052.png)
+```blocks
+move (10) steps
+
+repeat (10)
+```
 
 --- /hint ---
 --- hint ---
 Here is the code to animate your spaceship:
 ![Spaceship sprite](images/sprite-spaceship.png)
-![blocks_1545231887_2153757](images/blocks_1545231887_2153757.png)
+```blocks
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) secs
+point towards [Earth v]
+repeat (200)
+    move (2) steps
+```
 You can use different numbers in the `repeat`{:class="blockcontrol"} and `move`{:class="blockmotion"} blocks, as long as the spaceship still gets to Earth!
 --- /hint ---
 --- /hints ---
@@ -48,7 +67,9 @@ Can you add code to your spaceship sprite so that the spaceship changes colour a
 Use this block:
 
 ![Spaceship sprite](images/sprite-spaceship.png)
-![blocks_1545231888_299172](images/blocks_1545231888_299172.png)
+```blocks
+change [color v] effect by (25)
+```
 
 Test and save your code.
 
@@ -64,7 +85,10 @@ Your spaceship should start at __100% size__, and then __change size__ by a smal
 Use these blocks:
 
 ![Spaceship sprite](images/sprite-spaceship.png)
-![blocks_1545231889_385147](images/blocks_1545231889_385147.png)
+```blocks
+change size by (10)
+set size to (100) %
+```
 --- /task ---
 
 Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a __second time__. Is it the right size when it starts?
